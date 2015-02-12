@@ -1,2 +1,19 @@
 # X-Serv-14.6-ServURLAleat
 Ejercicio 14.5.-Clase servidor de aplicaciones, generador de URLs aleatorias
+
+## Enunciado
+
+Realiza el servidor especificado en el ejercicio <a href="https://github.com/CursosWeb/X-Serv-14.3-URLsAleatorias">Aplicación web generadora de URLs aleatorias</a> (14.3) utilizando el esquema de clases definido en el ejercicio <a href="https://github.com/CursosWeb/X-Serv-14.5-ServAplicaciones">Clase servidor de aplicaciones</a> (14.5).
+
+## Forma de entrega
+
+Has de tener un repositorio llamado X-Serv-14.5-ServURLAleat en tu cuenta en GitHub
+que incluya el fichero de nombre 'webapp-aleat.py' que contenga las
+instrucciones en Python para solucionar el ejercicio.
+
+Se proporciona un script, check.py, para comprobar la entrega correcta
+del ejercicio. El script de comprobación se ha de ejecutar desde terminal
+pasándole como parámetro tu nombre de usuario en GitHub. Así, un ejemplo de
+ejecución sería:
+
+$ python check.py gregoriorobles
