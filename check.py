@@ -16,10 +16,11 @@ import sys
 ejercicio = 'X-Serv-14.6-ServURLAleat'
 
 student_files = [
-    'webapp-aleat.py'
+    'aleat.py'
     ]
 
 repo_files = [
+    'webapp.py',
     'check.py',
     'README.md',
     '.gitignore',
