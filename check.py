@@ -23,7 +23,8 @@ repo_files = [
     'check.py',
     'README.md',
     '.gitignore',
-    '.git'
+    '.git',
+    'LICENSE'
     ]
 
 files = student_files + repo_files
